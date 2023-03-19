@@ -1,0 +1,13 @@
+steps to configure
+open github
+sign in with username and password
+create empty repo 
+local system
+git config 
+username 
+password
+
+link local to remote : 
+
+after that 
+git push -u origin master.
